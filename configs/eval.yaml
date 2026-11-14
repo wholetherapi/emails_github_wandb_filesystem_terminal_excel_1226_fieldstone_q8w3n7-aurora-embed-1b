@@ -1,0 +1,4 @@
+recipe: aurora-embed-1b
+metric: eval/accuracy
+batch_size: 32
+eval_every_steps: 1
